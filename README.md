@@ -72,6 +72,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/CodePhoenixOp/CodePhoenixOp/blob/63cd9966728260b5d2c5a2a4870c26e61bd1f32b/snake.svg" />
 
 ###
