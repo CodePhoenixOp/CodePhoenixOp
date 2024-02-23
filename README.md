@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/CodePhoenixOp/CodePhoenixOp/output/snake.svg](https://github.com/CodePhoenixOp/CodePhoenixOp/blob/63cd9966728260b5d2c5a2a4870c26e61bd1f32b/snake.yml)https://github.com/CodePhoenixOp/CodePhoenixOp/blob/63cd9966728260b5d2c5a2a4870c26e61bd1f32b/snake.yml" alt="Snake animation" />
+<img src="https://github.com/CodePhoenixOp/CodePhoenixOp/blob/63cd9966728260b5d2c5a2a4870c26e61bd1f32b/snake.yml" />
 
 ###
